@@ -14,7 +14,8 @@ The app uses **react-router-dom** for routing and **Tailwind CSS** for styling.
 
 ## Demo 🖥️
 
-![Car Rental Demo](/Vite_-React-and-Typescript.gif)
+![Car Rental Demo](public/Typescript.gif)
+
 
 ## Used Technologies ⚙️
 
