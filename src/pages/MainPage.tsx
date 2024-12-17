@@ -45,8 +45,8 @@ const MainPage = () => {
           <SearchBar />
 
           <div className="home__filter-container">
-            <CustomFilters title="Yakıt Tipi" options={fuels} />
-            <CustomFilters title="Üretim Yılı" options={years} />
+            <CustomFilters title="Fuel Type" options={fuels} />
+            <CustomFilters title="Year of Manufacture" options={years} />
           </div>
         </div>
 

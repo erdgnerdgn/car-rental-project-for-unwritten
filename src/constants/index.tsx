@@ -43,7 +43,7 @@ export const makes = [
 ];
 
 export const years = [
-  { label: "Yıl", value: "" },
+  { label: "Year", value: "" },
   { label: "2015", value: "2015" },
   { label: "2016", value: "2016" },
   { label: "2017", value: "2017" },
@@ -61,15 +61,15 @@ export const fuels = [
     value: "",
   },
   {
-    label: "Gaz",
+    label: "Gas",
     value: "Gas",
   },
   {
-    label: "Elektrik",
+    label: "Electricity",
     value: "Electricity",
   },
   {
-    label: "Dizel",
+    label: "Diesel",
     value: "Diesel",
   },
 ];
